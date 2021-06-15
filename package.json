@@ -1,0 +1,26 @@
+{
+  "name": "henny.dev",
+  "version": "1.0.0",
+  "description": "Pagina web personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henny35P/henny.dev.git"
+  },
+  "keywords": [
+    "web",
+    "personal"
+  ],
+  "author": "Henny35P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henny35P/henny.dev/issues"
+  },
+  "homepage": "https://github.com/Henny35P/henny.dev#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3"
+  }
+}
